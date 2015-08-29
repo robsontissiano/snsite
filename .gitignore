@@ -1,2 +1,6 @@
+*.bkp
 *.pyc
 dbsqlite
+soner/dispach.wsgi
+soner/soner/dispach.wsgi
+env/*

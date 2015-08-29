@@ -1,0 +1,39 @@
+/*
+	Custom link colors
+*/
+
+a,
+.contentWrapper a,
+.siteHeader .navigation li:hover a,
+.siteHeader .navigation li ul.dropdown li a:hover,
+.contentSlider .slideSwitch div.active,
+.siteFooter .column .columnNavigation li a
+{
+	color: #acd213;
+}
+
+/*
+	Button
+*/
+
+a.colorButton,
+button
+{
+	color: #fff;
+	text-shadow: 0 1px 0 #6a8110;
+	background: #86a11a url(../img/layout/colorButton.png) left top no-repeat;
+}
+
+a.colorButton span.pointer
+{
+	background: transparent url(../img/layout/colorButtonPointer.png) right center no-repeat;		
+}
+
+/*
+	Header logo
+*/
+
+.siteHeader .logo
+{
+	background: transparent url(../img/logos/siteHeaderLogo.png) left center no-repeat;
+}
