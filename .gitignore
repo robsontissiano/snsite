@@ -4,3 +4,4 @@ dbsqlite
 soner/dispach.wsgi
 soner/soner/dispach.wsgi
 env/*
+settings.py
